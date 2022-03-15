@@ -5,7 +5,6 @@
  */
 package javapbo3;
 
-import GUI.Tampilan;
 import javax.swing.*;
 
 /**
